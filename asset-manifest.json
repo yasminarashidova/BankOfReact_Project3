@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/BankOfReact_Project3/static/css/main.99f3aaac.chunk.css",
-    "main.js": "/BankOfReact_Project3/static/js/main.0795fc0b.chunk.js",
-    "main.js.map": "/BankOfReact_Project3/static/js/main.0795fc0b.chunk.js.map",
-    "runtime-main.js": "/BankOfReact_Project3/static/js/runtime-main.9aa6467a.js",
-    "runtime-main.js.map": "/BankOfReact_Project3/static/js/runtime-main.9aa6467a.js.map",
-    "static/js/2.1a8c6002.chunk.js": "/BankOfReact_Project3/static/js/2.1a8c6002.chunk.js",
-    "static/js/2.1a8c6002.chunk.js.map": "/BankOfReact_Project3/static/js/2.1a8c6002.chunk.js.map",
-    "static/js/3.c85fb425.chunk.js": "/BankOfReact_Project3/static/js/3.c85fb425.chunk.js",
-    "static/js/3.c85fb425.chunk.js.map": "/BankOfReact_Project3/static/js/3.c85fb425.chunk.js.map",
+    "main.css": "/BankOfReact_Project3/static/css/main.e5e28fac.chunk.css",
+    "main.js": "/BankOfReact_Project3/static/js/main.5c52edac.chunk.js",
+    "main.js.map": "/BankOfReact_Project3/static/js/main.5c52edac.chunk.js.map",
+    "runtime-main.js": "/BankOfReact_Project3/static/js/runtime-main.da88c866.js",
+    "runtime-main.js.map": "/BankOfReact_Project3/static/js/runtime-main.da88c866.js.map",
+    "static/js/2.5a1be460.chunk.js": "/BankOfReact_Project3/static/js/2.5a1be460.chunk.js",
+    "static/js/2.5a1be460.chunk.js.map": "/BankOfReact_Project3/static/js/2.5a1be460.chunk.js.map",
+    "static/js/3.ff02c577.chunk.js": "/BankOfReact_Project3/static/js/3.ff02c577.chunk.js",
+    "static/js/3.ff02c577.chunk.js.map": "/BankOfReact_Project3/static/js/3.ff02c577.chunk.js.map",
     "index.html": "/BankOfReact_Project3/index.html",
-    "static/css/main.99f3aaac.chunk.css.map": "/BankOfReact_Project3/static/css/main.99f3aaac.chunk.css.map",
-    "static/js/2.1a8c6002.chunk.js.LICENSE.txt": "/BankOfReact_Project3/static/js/2.1a8c6002.chunk.js.LICENSE.txt"
+    "static/css/main.e5e28fac.chunk.css.map": "/BankOfReact_Project3/static/css/main.e5e28fac.chunk.css.map",
+    "static/js/2.5a1be460.chunk.js.LICENSE.txt": "/BankOfReact_Project3/static/js/2.5a1be460.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9aa6467a.js",
-    "static/js/2.1a8c6002.chunk.js",
-    "static/css/main.99f3aaac.chunk.css",
-    "static/js/main.0795fc0b.chunk.js"
+    "static/js/runtime-main.da88c866.js",
+    "static/js/2.5a1be460.chunk.js",
+    "static/css/main.e5e28fac.chunk.css",
+    "static/js/main.5c52edac.chunk.js"
   ]
 }
