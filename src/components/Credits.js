@@ -12,6 +12,7 @@ const Credits = (props) => {
   let creditsView = () => {
     const { credits } = props;
     return credits.map((credit) => {  
+      // Extract properties from each credit JSON array element
       let date = credit.date.slice(0,10);
       return <li key={credit.id}>{credit.amount.toFixed(2)} {credit.description} {date}</li>
     });
